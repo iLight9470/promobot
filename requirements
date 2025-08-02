@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+telethon
+gunicorn
+psycopg2-binary
+sqlalchemy
+werkzeug
+email-validator
